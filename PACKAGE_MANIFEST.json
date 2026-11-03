@@ -1,0 +1,176 @@
+{
+  "dataset_snapshot_version": "2026-11-02-g11-public-v1",
+  "repository": "https://github.com/Briii88/hsk-vocabulary-topics",
+  "path_base": "repository_root",
+  "self_excluded": true,
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/vocabulary-feedback.md",
+      "bytes": 1662,
+      "sha256": "5db16f427afb1855fbacbcd526f61ff0cbf212eb7c7475b9c5bc00392bd493eb"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 51,
+      "sha256": "368bba07b01e6c9bd3d742bd2fc237135767e1d982b3a891026e89b679becbbc"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 824,
+      "sha256": "c40b21c19f5c1e381e923b024182f7fcb7b9c0f66d7e784759733310ba956db6"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 2119,
+      "sha256": "1ed8e5a315d5556b7d9e7754c6ebf0e584ea703264bca26661e9d458e5372486"
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "bytes": 6362,
+      "sha256": "24d6d250417d233188071834ca1c45f53cf7e7814ded8b382634b27912879b69"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "bytes": 1064,
+      "sha256": "c55b71bef4691cd9f38ada9a9157ef7421f32a4ca6256556dbc40916c5a10022"
+    },
+    {
+      "path": "LICENSE-DATA.md",
+      "bytes": 1293,
+      "sha256": "cd2979eac284375c4fab3b62e77bd2243461d08bf204a3cbbaaf9275fee02a84"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 1283,
+      "sha256": "adf65b99f6df4317e1f0684b06d5cd5337434d290b981203ad4ecec31fe57fb0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5711,
+      "sha256": "316d9c3bc435f065a3d6b63fd0a6bd8293ca184838563ad150a9f6af5bc7c921"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 4165,
+      "sha256": "fb4828b6734643f23bf14d3e8959c4d5acf260a8c035d74048901a8fd16a9149"
+    },
+    {
+      "path": "data/classification_dispositions.jsonl",
+      "bytes": 381901,
+      "sha256": "1817041963c2c0055ebfc0d7ab229c80681e835afa8c02887f836651979ac0cc"
+    },
+    {
+      "path": "data/manifest.json",
+      "bytes": 9331,
+      "sha256": "2d7606621371c859935a83124990cb4f2b441b37f05cd24954b764fe6eea8d2d"
+    },
+    {
+      "path": "data/relations.jsonl",
+      "bytes": 21262164,
+      "sha256": "70ab3fbd53ac070b28891613a67c25c0ae4b3d2ce0d40ca63941160988ef61ce"
+    },
+    {
+      "path": "data/source_differences.jsonl",
+      "bytes": 7396,
+      "sha256": "09dd76f8d437ea2cf2c909646f20a6b2d9b5cdc58bc2b574e3b87857488bc21e"
+    },
+    {
+      "path": "data/source_notes.jsonl",
+      "bytes": 112862,
+      "sha256": "4f57bcddbc93fabea030fbc8fe7ef99cc3370d01976fe877b0f24e2e57bea050"
+    },
+    {
+      "path": "data/stages.jsonl",
+      "bytes": 5103560,
+      "sha256": "97190bec7804366e81b7049a89f1a53b1d591ec79a20974789ba740e94a91a0b"
+    },
+    {
+      "path": "data/taxonomy.jsonl",
+      "bytes": 17726507,
+      "sha256": "16ceb61bf56b076aa8f674e773833722451f1e7141f238870624ec306abed90f"
+    },
+    {
+      "path": "data/themes.jsonl",
+      "bytes": 6811,
+      "sha256": "ba44b419b3e5d45bee323820b7c8d0e24c0b0f25eca5fe258325f2fcc82a055b"
+    },
+    {
+      "path": "data/words.jsonl",
+      "bytes": 9902049,
+      "sha256": "3f1cab6eb5e9142c0c09e5ea054ec1d6252a252359983034ab2931d2930c8d5d"
+    },
+    {
+      "path": "downloads/classification_dispositions.csv",
+      "bytes": 370566,
+      "sha256": "b75801e19dfe7f5eeeeb330de29504b02ae5efaacc04eeee0d2c3445154b294c"
+    },
+    {
+      "path": "downloads/classified-vocabulary.csv",
+      "bytes": 13757002,
+      "sha256": "f1200cc502289e7647d78c09680e5da9f72f90f3fee3f021788da4583c657d4c"
+    },
+    {
+      "path": "downloads/hsk-vocabulary-topics.xlsx",
+      "bytes": 6909012,
+      "sha256": "86e520a51c90dce618709d6caf9244a6a536707ffc75517c2085f1a5bafab85b"
+    },
+    {
+      "path": "downloads/relations.csv",
+      "bytes": 15315201,
+      "sha256": "93ad6c66ef92bc896d3979483c0c9fd0f5694b9129254416813dbdc05920555f"
+    },
+    {
+      "path": "downloads/source_differences.csv",
+      "bytes": 5415,
+      "sha256": "40ff4b6e0d563145be928b1b6068921dd82bb9365a031f6a3e4b17b643f68260"
+    },
+    {
+      "path": "downloads/source_notes.csv",
+      "bytes": 108150,
+      "sha256": "e56e302acda32daa5fa65b3ef18d591a7bdccc8c72e1e67ce38b3d2138d67f0c"
+    },
+    {
+      "path": "downloads/stages.csv",
+      "bytes": 3060387,
+      "sha256": "ee9d0487218f18612978334f7bcba50022596f9de83a9cf7c2be17dcc7cc2a71"
+    },
+    {
+      "path": "downloads/taxonomy.csv",
+      "bytes": 17209410,
+      "sha256": "d58e94956834f7a9ce66abf9ef57c00038c53c88af94c3d365d0bbca43e9f299"
+    },
+    {
+      "path": "downloads/themes.csv",
+      "bytes": 4212,
+      "sha256": "1ab0ca593b1d26f0dd98c971d5f80a698f64f48cd5b3054fb7005c3d0bed0f22"
+    },
+    {
+      "path": "downloads/words.csv",
+      "bytes": 4414297,
+      "sha256": "e085d2877ea41ba6839c95b374ff7b3c586fcc150ddee1ebf5916a7587900ed5"
+    },
+    {
+      "path": "query.py",
+      "bytes": 16008,
+      "sha256": "99b4ac02acc238e908f5c08e0e88686a9faf6aa453b9b1c8a8c1822b2c2379d7"
+    },
+    {
+      "path": "tests/test_query.py",
+      "bytes": 15749,
+      "sha256": "9b04a97bcfb902ce01e5c058274e63f4ace4e31d84a73afeefed4b712426e59c"
+    }
+  ],
+  "validation": {
+    "source_entries": 11000,
+    "current_relations": 11384,
+    "themes": 35,
+    "classes": 6085,
+    "stage_records": 11105,
+    "extension_stage_records": 105,
+    "query_tests_passed": 17,
+    "real_cli_checks_passed": 9,
+    "csv_readback": "all cells verified",
+    "xlsx_readback": "all exported cells verified against public data",
+    "classification_accuracy": "not a measured accuracy claim"
+  }
+}
